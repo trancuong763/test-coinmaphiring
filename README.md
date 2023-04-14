@@ -5,7 +5,7 @@ $ npm install
 ```
 
 ## Setting Source
-Chạy lệnh bên dưới để coppy file .env.example qua file .env
+Chạy lệnh bên dưới để coppy file .env.example qua file .env<br>
 Cấu hình các biến ở .env
 ```bash
 $ cp .env.example .env
@@ -34,6 +34,6 @@ http://localhost:3000/docs/
 
 ## Email test
 ```bash
-username: tranvancuong.8299@gmail.com,
-password: crxurnpwufgfbezf
+tranvancuong.8299@gmail.com,
+crxurnpwufgfbezf
 ```
