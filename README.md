@@ -6,6 +6,7 @@ $ npm install
 
 ## Setting Source
 Chạy lệnh bên dưới để coppy file .env.example qua file .env
+Cấu hình các biến ở .env
 ```bash
 $ cp .env.example .env
 ```
@@ -29,4 +30,10 @@ $ npm run start:dev
 ## Document API
 ```bash
 http://localhost:3000/docs/
+```
+
+## Email test
+```bash
+username: tranvancuong.8299@gmail.com,
+password: crxurnpwufgfbezf
 ```
